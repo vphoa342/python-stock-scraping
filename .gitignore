@@ -1,0 +1,7 @@
+data/
+dist/
+setting/
+test/
+build/
+main.exe
+main.spec
